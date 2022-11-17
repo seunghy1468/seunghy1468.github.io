@@ -7,7 +7,7 @@ description: |
   Hello!
   I'm currently studying  
   wireless communications at [IWCL](https://sites.google.com/view/iwcl)
-owner: Seunghyeong Yu # or company name
+owner: Seunghyeong Yoo # or company name
 first_published: 2022 # if migrating another site, the year of your first publish
 email: seunghy@unist.ac.kr
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -16,7 +16,7 @@ social:
   #twitter: https://twitter.com/<username>
   github: https://github.com/seunghy1468/
   #linkedin-square: https://linkedin.com/in/<username>
-  facebook-official: https://www.facebook.com/seunghyeong.yu
+  facebook-official: https://www.facebook.com/seunghyeong.yoo
   #google-plus-square: https://plus.google.com/u/0/+<username>
   #email: /contact/
   #flickr:
