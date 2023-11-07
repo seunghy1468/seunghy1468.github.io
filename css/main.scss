@@ -541,6 +541,7 @@ $baseurl: '{{ site.baseurl }}/images';
 			display: flex;
 			margin: 0 0 _size(element-margin) 0;
 			width: 99%;
+			height: auto;
 
 			img {
 				width: 100%;
