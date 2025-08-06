@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Seunghyeong
+first_name:
 middle_name:
-last_name: Yoo
+last_name: Seunghyeong Yoo
 contact_note: >
   I kindly recommend email as the preferred method of contact.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
