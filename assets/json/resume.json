@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Seunghyeong Yoo",
+    "label": "Graduated Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "seunghyeong@kaist.ac.kr",
+    "phone": "(+82)10-8779-3518",
+    "url": "https://seunghy1468.github.io/",
+    "summary": "I'm currently working toward the Ph. D. degree with SIC-X Lab. under the supervision of Prof. Jinseok Choi from Korea Advanced Institute of Science and Technology (KAIST).",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "KAIST Bldg. N1, Rm. 618 (EE618)",
+      "postalCode": "34141",
+      "city": "Daejeon",
+      "countryCode": "KR",
+      "region": ""
     },
     "profiles": [
       {
@@ -24,10 +24,10 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
+      "name": "Digital Beamforming for MIMO Systems in Wireless Communications, Korea Advanced Institute of Science and Technology",
+      "position": "Graduated Student",
+      "url": "https://seunghy1468.github.io/",
+      "startDate": "2020-01-01",
       "endDate": "1955-01-01",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["Relativity"]
