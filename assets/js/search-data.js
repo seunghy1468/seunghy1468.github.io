@@ -515,28 +515,28 @@ ninja.data = [{
         title: 'Facebook',
         section: 'Socials',
         handler: () => {
-          window.open("https://facebook.com/https://www.facebook.com/seunghyeong.yoo", "_blank");
+          window.open("https://facebook.com/seunghyeong.yoo", "_blank");
         },
       },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/https://github.com/seunghy1468", "_blank");
+          window.open("https://github.com/seunghy1468", "_blank");
         },
       },{
         id: 'social-instagram',
         title: 'Instagram',
         section: 'Socials',
         handler: () => {
-          window.open("https://instagram.com/https://www.instagram.com/gabriel_yoo__/", "_blank");
+          window.open("https://instagram.com/gabriel_yoo__/", "_blank");
         },
       },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/seunghyeong-yoo-83b4a7217/", "_blank");
+          window.open("https://www.linkedin.com/in/seunghyeong-yoo-83b4a7217/", "_blank");
         },
       },{
         id: 'social-rss',
