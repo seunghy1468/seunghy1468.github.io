@@ -515,7 +515,7 @@ ninja.data = [{
         title: 'Facebook',
         section: 'Socials',
         handler: () => {
-          window.open("https://facebook.com/https://www.facebook.com/seunghyeong.yoo?locale=ko_KR", "_blank");
+          window.open("https://facebook.com/https://www.facebook.com/seunghyeong.yoo", "_blank");
         },
       },{
         id: 'social-github',
