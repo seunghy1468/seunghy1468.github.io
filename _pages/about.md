@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>seunghyeong@kaist.ac.kr</p>
-    <p>KAIST Bldg. N1, Rm. 618 (EE618)</p>
+    <p>KAIST Bldg. N1, Rm. 618</p>
     <p>Daejeon 34141, South Korea</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
