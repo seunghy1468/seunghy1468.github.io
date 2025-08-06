@@ -15,7 +15,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>seunghyeong@kaist.ac.kr</p>
-      <p>123 KAIST Bldg. N1, Rm. 618 (EE618)</p>
+      <p>KAIST Bldg. N1, Rm. 618</p>
       <p>Daejeon 34141, South Korea</p>
   - align: left
     image: me_1.jpg
@@ -23,6 +23,6 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>seunghyeong@kaist.ac.kr</p>
-      <p>123 KAIST Bldg. N1, Rm. 618 (EE618)</p>
+      <p>KAIST Bldg. N1, Rm. 618</p>
       <p>Daejeon 34141, South Korea</p>
 ---
