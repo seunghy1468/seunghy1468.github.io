@@ -11,7 +11,7 @@ owner: Seunghyeong Yoo # or company name
 first_published: 2022 # if migrating another site, the year of your first publish
 email: seunghy@unist.ac.kr
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://seunghy1468.github.io/" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 social:
   #twitter: https://twitter.com/<username>
   github: https://github.com/seunghy1468/
