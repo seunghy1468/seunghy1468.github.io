@@ -6,7 +6,7 @@ subtitle: <a href='#'>Graduated Student</a>.
 
 profile:
   align: right
-  image: me_1.jpg
+  image: me_2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>seunghyeong@kaist.ac.kr</p>
