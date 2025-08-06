@@ -6,7 +6,7 @@ permalink: /
 
 👋 **Welcome!**
 
-I’m **Seunghyeong Yoo**, a researcher passionate about wireless communication systems, signal processing, and embedded systems.  
+I’m **Seunghyeong Yoo**, a researcher passionate about wireless communication systems and signal processing.  
 This website showcases my academic work, research interests, and selected projects.
 
 📌 Use the navigation bar to explore:
