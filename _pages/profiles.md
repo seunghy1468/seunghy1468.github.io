@@ -11,7 +11,7 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: me_1.jpg
-    content: about_einstein.md
+    content: about_me.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>seunghyeong@kaist.ac.kr</p>
@@ -19,7 +19,7 @@ profiles:
       <p>Daejeon 34141, South Korea</p>
   - align: left
     image: me_1.jpg
-    content: about_einstein.md
+    content: about_me.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>seunghyeong@kaist.ac.kr</p>
