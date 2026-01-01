@@ -6,7 +6,7 @@ subtitle: Ph. D. Graduated Student
 
 profile:
   align: right
-  image: me_2.jpg
+  image: me_1.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>seunghyeong@kaist.ac.kr</p>
