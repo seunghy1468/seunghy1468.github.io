@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-**C1:** My paper "Joint Precoding and Combining for Quantized Full-Duplex MU-MIMO Systems" has been published to IEEE Veh. Technol. Conf. Workshop (VTC), 2023, Florence, Italy.
+**<span style="color: #004191">Conference 1:</span>** My paper "Joint Precoding and Combining for Quantized Full-Duplex MU-MIMO Systems" has been published to IEEE Veh. Technol. Conf. Workshop (VTC), 2023, Florence, Italy.
 
 
 
