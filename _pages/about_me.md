@@ -1,4 +1,4 @@
 I received the B.S. degree in Information Communication and Electronics Engineering from The Catholic University of Korea `(CUK)` in 2022 and an M.S. degree in Electrical Engineering from the Ulsan National Institute of Science and Technology `(UNIST)`, Korea, in 2024.
 I'm currently pursuing a Ph. D. degree at the [SIC-X Lab.](https://sic-x.kaist.ac.kr/) under the supervision of Prof. Jinseok Choi at the Korea Advanced Institute of Science and Technology `(KAIST)`.
 My current research interests include massive MIMO, full-duplex systems, and cell-free wireless frameworks.
-I also run a [blog](https://seunghy.tistory.com/) where I organize and summarize the theories and papers I have studied, along with the topics I am currently exploring. For more details on my research, please visit my blog.
+I also run a [research blog](https://seunghy.tistory.com/) where I organize and summarize the theories and papers I have studied, along with the topics I am currently exploring. For more details on my research, please visit my blog.
