@@ -1,9 +1,41 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"TVT":
+  color: "#004191"
+  url: "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=25"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"TCOM":
+  color: "#004191"
+  url: "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=26"
 
-"Vision":
-  color: "#009f36"
+"TWC":
+  color: "#004191"
+  url: "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7693"
+
+
+
+"arXiv":
+  color: "#B31B1B"
+
+
+
+"ICTC":
+  color: "#800080"
+
+"VTC":
+  color: "#800080"
+
+
+
+"JCCI":
+  color: "#008000"
+
+"KICS":
+  color: "#008000"
+
+"KSAS":
+  color: "#008000"
+
+"KIPS":
+  color: "#008000"
+
+"IEIE":
+  color: "#008000"
