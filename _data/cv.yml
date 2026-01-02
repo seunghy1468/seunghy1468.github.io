@@ -11,22 +11,18 @@
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D. Candidates
-      institution: Korea Advanced Institute of Science and Technology, Daejeon, South Korea
-      year: 2024
+    - title: Ph.D. in Electrical Engineering
+      institution: Korea Advanced Institute of Science and Technology (KAIST), Daejeon, South Korea
+      year: 2024 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Advisor: Prof. Jinseok Choi
+        - Lab: SIC-X Lab.
+    - title: M.S. in Electrical Engineering
+      institution:Ulsan National Institute of Science and Technology (UNIST), Ulsan, South Korea
+      year: 2022 - 2024
       description:
-        - Description 1.
-        - Description 2.
+        - Advisor: Prof. Jinseok Choi
+        - Lab: IWCL
 
 - title: Experience
   type: time_table
