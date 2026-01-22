@@ -1,0 +1,52 @@
+/* _sass/_custom.scss */
+
+/* =========================================
+   1. Journal 스타일 (진한 파란색 계열)
+   ========================================= */
+   .news-journal {
+    color: #004191;       /* Light Mode: 진한 KAIST 파란색 */
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+/* 다크 모드일 때 Journal 색상 */
+html[data-theme='dark'] .news-journal {
+    color: #4da6ff;       /* Dark Mode: 밝은 파란색 */
+    font-weight: bold;
+}
+
+
+/* =========================================
+   2. Conference 스타일 (하늘색 계열)
+   ========================================= */
+.news-conf {
+    color: #008CBA;       /* Light Mode: 시원한 하늘색/청록색 */
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+/* 다크 모드일 때 Conference 색상 */
+html[data-theme='dark'] .news-conf {
+    color: #00d8ee;       /* Dark Mode: 형광 하늘색 (눈에 확 띔) */
+    font-weight: bold;
+}
+
+
+/* =========================================
+   (선택사항) 국내 학회 등 기타 스타일
+   ========================================= */
+.news-etc {
+    color: #E06000;       /* Light Mode: 주황색 (강조용) */
+    font-weight: bold;
+}
+html[data-theme='dark'] .news-etc {
+    color: #ff9e42;       /* Dark Mode: 밝은 주황색 */
+    font-weight: bold;
+}
+
+/* 시스템 다크모드 대응 */
+@media (prefers-color-scheme: dark) {
+    body[data-theme="auto"] .news-journal { color: #4da6ff; }
+    body[data-theme="auto"] .news-conf    { color: #00d8ee; }
+    body[data-theme="auto"] .news-etc     { color: #ff9e42; }
+}
