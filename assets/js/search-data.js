@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "publications",
-          description: "(In preparation:) S. Yoo, M. Oh, J. Park, N. Lee, and J. Choi, &quot;Scalable Generalized Power Iteration-based Precoding for Large-Scale MU-MIMO Systems&quot;, IEEE Transactions on Wireless Communications (TWC). (Submitted:) My paper “Full-Duplex Multiuser MISO Under Coarse Quantization: Per-Antenna SQNR Analysis and Beamforming Design” has been submitted to IEEE Transactions on Communications (TCOM), 2025.",
+          description: "Selected publications and conference proceedings.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
