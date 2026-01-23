@@ -2,7 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: Seunghyeong Yoo
+      value: <b>Seunghyeong Yoo</b>
     - name: Date of Birth
       value: 29th November 1996
     - name: Languages
@@ -15,14 +15,14 @@
       institution: Korea Advanced Institute of Science and Technology (KAIST), Daejeon, South Korea
       year: 2024.08 - Present
       description:
-        - "Advisor: Prof. Jinseok Choi"
-        - "Lab: SIC-X Lab."
+        - "Advisor: <b>Prof. Jinseok Choi</b>"
+        - "Lab: <b>SIC-X Lab.</b>"
     - title: M.S. in Electrical Engineering
       institution: Ulsan National Institute of Science and Technology (UNIST), Ulsan, South Korea
       year: 2022.03 - 2024.08
       description:
-        - "Advisor: Prof. Jinseok Choi"
-        - "Lab: IWCL"
+        - "Advisor: <b>Prof. Jinseok Choi</b>"
+        - "Lab: <b>IWCL</b>"
     - title: B.S. in Information Communication and Electronics Engineering
       institution: The Catholic University of Korea (CUK), Seoul, South Korea
       year: 2015.03 - 2022.02
@@ -32,17 +32,17 @@
 - title: Work Experience
   type: time_table
   contents:
-    - title: Researcher
+    - title: Graduate Student
       institution: Korea Advanced Institute of Science and Technology (KAIST), Daejeon, South Korea
-      year: 2024.08 - Present
+      year: 2020.03 - Present
       description:
-        - Research on MIMO, Low Complexity Beamforming, Full-Duplex, and Link Adaptation.
-        - Currently working toward the Ph.D. degree under the supervision of Prof. Jinseok Choi.
-    - title: Researcher
-      institution:  (UNIST), Ulsan, South Korea
+        - Research on <b>Wireless Communications, Beamforming, and Massive MIMO</b>.
+        - Currently working toward the Ph.D. degree under the supervision of <b>Prof. Jinseok Choi</b>.
+    - title: Graduate Student
+      institution: Ulsan National Institute of Science and Technology (UNIST), Ulsan, South Korea
       year: 2022.03 - 2024.08
       description:
-        - Research on MIMO and Full-Duplex.
+        - Research on <b>MIMO and Full-Duplex</b>.
 
 - title: Projects
   type: time_table
@@ -50,13 +50,13 @@
     - title: 6G Wireless Communications System Development
       year: 2024.03 - Present
       description:
-        - Development of OFDM-MIMO Systems.
-        - "Tools: MATLAB"
+        - Development of <b>OFDM-MIMO Systems</b>.
+        - "Tools: <b>MATLAB</b>"
     - title: Multiple-Functional High-Reliable Power Conversion System for DC Microgrid
       year: 2023.06 - 2026.05
       description:
         - Development of Basic Communications System.
-        - "Tools: PSIM, MATLAB"
+        - "Tools: <b>PSIM, MATLAB</b>"
 
 - title: Selected Publications
   type: time_table
@@ -79,8 +79,8 @@
   contents:
     - year: 2020
       items:
-        - Silver Prize, Smart Marine Logistics Category, Hanium ICT Contest (Ministry of Science and ICT)
-        - Encouragement Award, Free Topic Category, Hanium ICT Contest (Ministry of Science and ICT)
+        - <b>Silver Prize</b>, Smart Marine Logistics Category, Hanium ICT Contest (Ministry of Science and ICT)
+        - <b>Encouragement Award</b>, Free Topic Category, Hanium ICT Contest (Ministry of Science and ICT)
         - Award for Encouragement of Academic Research Conference (The Catholic University of Korea)
 
 - title: Skills
@@ -91,8 +91,8 @@
 - title: Languages
   type: list
   contents:
-    - Korean (Native)
-    - English (Intermediate)
+    - Korean (<b>Native</b>)
+    - English (<b>Intermediate</b>)
 
 - title: Research Interests
   type: list
