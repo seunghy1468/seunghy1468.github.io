@@ -1,114 +1,117 @@
-- title: General Information
+- title: "General Information"
   type: map
   contents:
-    - name: Full Name
-      value: <b>Seunghyeong Yoo</b>
-    - name: Date of Birth
-      value: 29th November 1996
-    - name: Languages
-      value: Korean
+    - name: "Full Name"
+      value: "<b>Seunghyeong Yoo</b>"
+    - name: "Date of Birth"
+      value: "29th November 1996"
+    - name: "Languages"
+      value: "Korean"
 
-- title: Education
+- title: "Education"
   type: time_table
   contents:
-    - title: Ph.D. in Electrical Engineering
-      institution: Korea Advanced Institute of Science and Technology (KAIST), Daejeon, South Korea
-      year: 2024.08 - Present
+    - title: "Ph.D. in Electrical Engineering"
+      institution: "Korea Advanced Institute of Science and Technology (KAIST), Daejeon, South Korea"
+      year: "2024.08 - Present"
       description:
         - "Advisor: <b>Prof. Jinseok Choi</b>"
         - "Lab: <b>SIC-X Lab.</b>"
-    - title: M.S. in Electrical Engineering
-      institution: Ulsan National Institute of Science and Technology (UNIST), Ulsan, South Korea
-      year: 2022.03 - 2024.08
+    - title: "M.S. in Electrical Engineering"
+      institution: "Ulsan National Institute of Science and Technology (UNIST), Ulsan, South Korea"
+      year: "2022.03 - 2024.08"
       description:
         - "Advisor: <b>Prof. Jinseok Choi</b>"
         - "Lab: <b>IWCL</b>"
-    - title: B.S. in Information Communication and Electronics Engineering
-      institution: The Catholic University of Korea (CUK), Seoul, South Korea
-      year: 2015.03 - 2022.02
+    - title: "B.S. in Information Communication and Electronics Engineering"
+      institution: "The Catholic University of Korea (CUK), Seoul, South Korea"
+      year: "2015.03 - 2022.02"
       description:
         - "Advisor: Prof. So Ryoung Park"
 
-- title: Work Experience
+- title: "Work Experience"
   type: time_table
   contents:
-    - title: Graduate Student
-      institution: Korea Advanced Institute of Science and Technology (KAIST), Daejeon, South Korea
-      year: 2020.03 - Present
+    - title: "Graduate Student"
+      institution: "Korea Advanced Institute of Science and Technology (KAIST), Daejeon, South Korea"
+      year: "2020.03 - Present"
       description:
-        - Research on <b>Wireless Communications, Beamforming, and Massive MIMO</b>.
-        - Currently working toward the Ph.D. degree under the supervision of <b>Prof. Jinseok Choi</b>.
-    - title: Graduate Student
-      institution: Ulsan National Institute of Science and Technology (UNIST), Ulsan, South Korea
-      year: 2022.03 - 2024.08
+        - "Research on <b>Wireless Communications, Beamforming, and Massive MIMO</b>."
+        - "Currently working toward the Ph.D. degree under the supervision of <b>Prof. Jinseok Choi</b>."
+    - title: "Graduate Student"
+      institution: "Ulsan National Institute of Science and Technology (UNIST), Ulsan, South Korea"
+      year: "2022.03 - 2024.08"
       description:
-        - Research on <b>MIMO and Full-Duplex</b>.
+        - "Research on <b>MIMO and Full-Duplex</b>."
 
-- title: Projects
+- title: "Projects"
   type: time_table
   contents:
-    - title: 6G Wireless Communications System Development
-      year: 2024.03 - Present
+    - title: "6G Wireless Communications System Development"
+      year: "2024.03 - Present"
       description:
-        - Development of <b>OFDM-MIMO Systems</b>.
+        - "Development of <b>OFDM-MIMO Systems</b>."
         - "Tools: <b>MATLAB</b>"
-    - title: Multiple-Functional High-Reliable Power Conversion System for DC Microgrid
-      year: 2023.06 - 2026.05
+    - title: "Multiple-Functional High-Reliable Power Conversion System for DC Microgrid"
+      year: "2023.06 - 2026.05"
       description:
-        - Development of Basic Communications System.
+        - "Development of Basic Communications System."
         - "Tools: <b>PSIM, MATLAB</b>"
 
-- title: Selected Publications
+- title: "Selected Publications"
   type: time_table
   contents:
-    - title: Generalized Power Iteration-Based Precoding With Low-Complexity Matrix Inversion Approaches for Massive MIMO Systems
-      institution: IEEE Transactions on Vehicular Technology (TVT)
-      year: 2025
-      description: M. Oh, <b>S. Yoo</b>, N. Lee, and J. Choi
-    - title: Joint Secure Max-Min Fairness Precoding and Antenna Selection under Coarse Quantization
-      institution: IEEE Transactions on Vehicular Technology (TVT)
-      year: 2025
-      description: S. Bae, <b>S. Yoo</b>, S. Lee, and J. Choi
-    - title: Max-Min Fairness Precoding with Low Resolution DACs
-      institution: IEEE International Conference on Information and Communication Technology Convergence (ICTC)
-      year: 2024
-      description: S. Bae, S. Lee, <b>S. Yoo</b>, and J. Choi
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2020
-      items:
-        - <b>Silver Prize</b>, Smart Marine Logistics Category, Hanium ICT Contest (Ministry of Science and ICT)
-        - <b>Encouragement Award</b>, Free Topic Category, Hanium ICT Contest (Ministry of Science and ICT)
-        - Award for Encouragement of Academic Research Conference (The Catholic University of Korea)
-
-- title: Skills
-  type: list
-  contents:
-    - MATLAB
-
-- title: Languages
-  type: list
-  contents:
-    - Korean (<b>Native</b>)
-    - English (<b>Intermediate</b>)
-
-- title: Research Interests
-  type: list
-  contents:
-    - Wireless Communications
-    - Beamforming & Link Adaptation
-    - Massive MIMO
-    - Full-Duplex Systems
-    - Integrated Sensing and Communications (ISAC)
-
-- title: References
-  type: list
-  contents:
-    - title: Prof. Jinseok Choi
+    - title: "Generalized Power Iteration-Based Precoding With Low-Complexity Matrix Inversion Approaches for Massive MIMO Systems"
+      institution: "IEEE Transactions on Vehicular Technology (TVT)"
+      year: "2025"
       description:
-        - Associate Professor
-        - School of Electrical Engineering, KAIST
+        - "M. Oh, <b>S. Yoo</b>, N. Lee, and J. Choi"
+    - title: "Joint Secure Max-Min Fairness Precoding and Antenna Selection under Coarse Quantization"
+      institution: "IEEE Transactions on Vehicular Technology (TVT)"
+      year: "2025"
+      description:
+        - "S. Bae, <b>S. Yoo</b>, S. Lee, and J. Choi"
+    - title: "Max-Min Fairness Precoding with Low Resolution DACs"
+      institution: "IEEE International Conference on Information and Communication Technology Convergence (ICTC)"
+      year: "2024"
+      description:
+        - "S. Bae, S. Lee, <b>S. Yoo</b>, and J. Choi"
+
+- title: "Honors and Awards"
+  type: time_table
+  contents:
+    - year: "2020"
+      items:
+        - "<b>Silver Prize</b>, Smart Marine Logistics Category, Hanium ICT Contest (Ministry of Science and ICT)"
+        - "<b>Encouragement Award</b>, Free Topic Category, Hanium ICT Contest (Ministry of Science and ICT)"
+        - "Award for Encouragement of Academic Research Conference (The Catholic University of Korea)"
+
+- title: "Skills"
+  type: list
+  contents:
+    - "MATLAB"
+
+- title: "Languages"
+  type: list
+  contents:
+    - "Korean (<b>Native</b>)"
+    - "English (<b>Intermediate</b>)"
+
+- title: "Research Interests"
+  type: list
+  contents:
+    - "Wireless Communications"
+    - "Beamforming & Link Adaptation"
+    - "Massive MIMO"
+    - "Full-Duplex Systems"
+    - "Integrated Sensing and Communications (ISAC)"
+
+- title: "References"
+  type: list
+  contents:
+    - title: "Prof. Jinseok Choi"
+      description:
+        - "Associate Professor"
+        - "School of Electrical Engineering, KAIST"
         - "Email: jinseok@kaist.ac.kr"
-        - <a href="https://sic-x.kaist.ac.kr/professor">SIC-X Lab Website</a>
+        - "<a href='https://sic-x.kaist.ac.kr/professor'>SIC-X Lab Website</a>"
