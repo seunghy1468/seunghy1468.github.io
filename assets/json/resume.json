@@ -29,23 +29,25 @@
       "url": "https://www.kaist.ac.kr/",
       "startDate": "2020-03-01",
       "endDate": "",
-      "summary": "Research on Wireless Communications, Beamforming, and Massive MIMO. Currently working toward the Ph.D. degree under the supervision of Prof. Jinseok Choi.",
+      "summary": "Research on Wireless Communications, Massive MIMO, Cell-Free MIMO, and Beamforming. Currently working toward the Ph.D. degree under the supervision of Prof. Jinseok Choi.",
       "highlights": [
-        "Digital Beamforming",
-        "Massive MIMO",
-        "Wireless Communications"
+        "Wireless Communications",
+        "Massive MIMO Systems",
+        "Cell-Free MIMO Systems",
+        "Digital Beamforming"
       ]
     },
     {
       "name": "Ulsan National Institute of Science and Technology (UNIST)",
-      "position": "Graduate Student",
+      "position": "Researcher",
       "url": "https://www.unist.ac.kr/",
       "startDate": "2022-03-01",
       "endDate": "2024-08-31",
-      "summary": "Conducted research on MIMO and Full-Duplex systems.",
+      "summary": "Conducted research on Wireless Communications, Full-Duplex systems, and Beamforming.",
       "highlights": [
-        "MIMO Systems",
-        "Full-Duplex"
+        "Wireless Communications",
+        "Full-Duplex Systems",
+        "Digital Beamforming"
       ]
     }
   ],
@@ -165,10 +167,10 @@
       "icon": "fa-solid fa-microchip",
       "keywords": [
         "Wireless Communications",
-        "Beamforming",
         "Massive MIMO",
         "Cell-Free MIMO",
-        "Full-Duplex"
+        "Full-Duplex",
+        "Beamforming"
       ]
     }
   ],
@@ -176,7 +178,8 @@
     {
       "name": "Prof. Jinseok Choi",
       "icon": "fa-solid fa-user-tie",
-      "reference": "Associate Professor, School of Electrical Engineering, KAIST. (Email: jinseok@kaist.ac.kr)"
+      "reference": "Associate Professor, School of Electrical Engineering, KAIST. (Email: jinseok@kaist.ac.kr)",
+      "url": "https://sic-x.kaist.ac.kr/home"
     }
   ],
   "projects": [
