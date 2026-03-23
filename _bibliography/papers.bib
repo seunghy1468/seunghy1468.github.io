@@ -1,5 +1,20 @@
-% J2: 2024: MMF with low-resolution DAC
-@article{2025_TVT_BF,
+% J4: 2026: S-GPIP
+@article{2026_WTC_S_GPIP,
+  abbr={arXiv},
+  title={Scalable and Convergent Generalized Power Iteration Precoding for Massive MIMO Systems},
+  author={Yoo, S. and Oh, M. and Park**, J. and Lee†, N. and Choi*, J.},
+  abstract={In massive multiple-input multiple-output (MIMO) systems, achieving high spectral efficiency (SE) often requires advanced precoding algorithms whose complexity scales rapidly with the number of antennas, limiting practical deployment. In this paper, we develop a scalable and computationally efficient generalized power iteration precoding (GPIP) framework for massive MIMO systems under both perfect and imperfect channel state information at the transmitter (CSIT). By exploiting the low-dimensional subspace property of optimal precoders, we reformulate the high-dimensional beamforming problem into a lower-dimensional weight optimization that scales with the number of users rather than antennas. We further extend this framework to the imperfect CSIT scenario by showing that stationary solutions reside in a combined subspace spanned by the estimated channel and error covariance matrices, enabling a robust design via low-rank approximation. To reduce computational cost, we leverage the Sherman-Morrison formula to simplify matrix inversions. Moreover, interpreting the GPIP update as a projected preconditioned gradient ascent method, we establish convergence guarantees and develop a stable and monotonic algorithm using a backtracking line search. Numerical results demonstrate that the proposed methods achieve the highest SE performance compared to state-of-the-art linear precoders with significantly reduced complexity and convergence, highlighting their suitability for large-scale MIMO systems.},
+  journal={arXiv},
+  numpages={13},
+  year={2026},
+  month={Mar},
+  url={https://arxiv.org/pdf/2603.03708},
+  dimensions={true},
+  selected={true},
+}
+
+% J3: 2025: Fast GPIP
+@article{2025_TVT_Fast_GPIP,
   abbr={TVT},
   title={Generalized Power Iteration-Based Precoding With Low-Complexity Matrix Inversion Approaches for Massive MIMO Systems},
   author={Oh, M. and Yoo, S. and Lee†, N. and Choi*, J.},
@@ -15,7 +30,7 @@
   selected={true},
 }
 
-% J1: 2024: MMF with low-resolution DAC
+% J2: 2025: MMF with low-resolution DAC
 @article{2025_TVT_MMF,
   abbr={TVT},
   title={Joint Secure Max-Min Fairness Precoding and Antenna Selection under Coarse Quantization},
@@ -32,12 +47,12 @@
   selected={true},
 }
 
-% S1: 2024: Full-Duplex Systems
+% J1: 2024: Full-Duplex Systems
 @article{2024_arXiv_FullDuplex,
   abbr={arXiv},
-  title={Full-Duplex MU-MIMO Systems with Coarse Quantization: How Many Bits Do We Need?},
-  author={Yoo, S. and Park, S. and Oh, M. and Lee†, N. and Choi*, J.},
-  abstract={This paper investigates full-duplex (FD) multi-user multiple-input multiple-output (MU-MIMO) system design with coarse quantization. We first analyze the impact of self-interference (SI) on quantization in FD single-input single-output systems. The analysis elucidates that the minimum required number of analog-to-digital converter (ADC) bits is logarithmically proportional to the ratio of total received power to the received power of desired signals. Motivated by this, we design a FD MIMO beamforming method that effectively manages the SI. Dividing a spectral efficiency maximization beamforming problem into two sub-problems for alternating optimization, we address the first by optimizing the precoder: obtaining a generalized eigenvalue problem from the first-order optimality condition, where the principal eigenvector is the optimal stationary solution, and adopting a power iteration method to identify this eigenvector. Subsequently, a quantization-aware minimum mean square error combiner is computed for the derived precoder. Through numerical studies, we observe that the proposed beamformer reduces the minimum required number of ADC bits for achieving higher spectral efficiency than that of half-duplex (HD) systems, compared to FD benchmarks. The overall analysis shows that, unlike with quantized HD systems, more than 6 bits are required for the ADC to fully realize the potential of the quantized FD system.},
+  title={Full-Duplex Multiuser MISO Under Coarse Quantization: Per-Antenna SQNR Analysis and Beamforming Design},
+  author={Yoo, S. and Kim, J. and Park, S. and Oh, M. and Lee†, N. and Choi*, J.},
+  abstract={We investigate full-duplex (FD) multi-user multiple input single-output systems with coarse quantization, aiming to characterize the impact of employing low-resolution analog-to-digital converters (ADCs) on self-interference (SI) and to develop a quantization- and SI-aware beamforming method that alleviates quantization-induced performance degradation in the FD systems. We first present an analysis on the perantenna signal-to-quantization noise ratio for conventional linear beamformers to provide the desired range of the number of analog-to-digital converter (ADC) bits, providing system insights for reliable FD operation in regard to the ADC resolution and beamforming strategy. Motivated by the insights, we then propose an SI-aware beamforming method that mitigates residual SI and quantization distortion. The resulting spectral efficiency (SE) maximization problem is decomposed into two tractable subproblems solved via alternating optimization: precoder and combiner design. The precoder optimization is formulated as a generalized eigenvalue problem, where the dominant eigenvector yields the best stationary solution through power iteration, while the combiner is derived as a quantization-aware minimum meansquared error (MMSE) filter. Numerical studies show that the number of required ADC bits with the proposed beamforming falls within the derived theoretical range while achieving the highest SE compared to benchmarks.},
   journal={arXiv},
   numpages={13},
   year={2024},

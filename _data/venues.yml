@@ -10,33 +10,34 @@
   color: "#004191"
   url: "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7693"
 
-
-
 "arXiv":
   color: "#B31B1B"
-
-
+  url: "https://arxiv.org/"
 
 "ICTC":
   color: "#800080"
+  url: "https://2024.ictc.org/"
 
 "VTC":
   color: "#800080"
   url: "https://events.vtsociety.org/vtc2023-spring/"
 
-
-
 "JCCI":
   color: "#008000"
+  url: "https://jcci.kr/"
 
 "KICS":
   color: "#008000"
+  url: "https://www.kics.or.kr/html/"
 
 "KSAS":
   color: "#008000"
+  url: "https://ksas.or.kr/"
 
 "KIPS":
   color: "#008000"
+  url: "https://www.kips.or.kr/"
 
 "IEIE":
   color: "#008000"
+  url: "https://www.theieie.org/"
