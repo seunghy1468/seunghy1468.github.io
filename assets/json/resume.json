@@ -27,14 +27,16 @@
       "name": "Korea Advanced Institute of Science and Technology (KAIST)",
       "position": "Researcher",
       "url": "https://www.kaist.ac.kr/",
-      "startDate": "2020-03-01",
+      "startDate": "2024-09-01",
       "endDate": "",
       "summary": "Research on Wireless Communications, Massive MIMO, Cell-Free MIMO, and Beamforming. Currently working toward the Ph.D. degree under the supervision of Prof. Jinseok Choi.",
       "highlights": [
-        "Wireless Communications",
-        "Massive MIMO Systems",
-        "Cell-Free MIMO Systems",
-        "Digital Beamforming"
+        "KAIST EE Colloquium (TA Experience: 2024.09 - 2024.12)",
+        "Communication Theory (TA Experience: 2025.03 - 2025.06) - Teaching Assistant Award",
+        "Introduction to Optimization Techniques (TA Experience: 2025.09 - 2025.12)",
+        "Introduction to Electronics Design Lab (TA Experience: 2025.09 - 2025.12)",
+        "Convex Optimization (TA Experience: 2026.03 - 2026.06)",
+        "Introduction to Electronics Design Lab (TA Experience: 2026.03 - 2026.06)"
       ]
     },
     {
@@ -43,11 +45,9 @@
       "url": "https://www.unist.ac.kr/",
       "startDate": "2022-03-01",
       "endDate": "2024-08-31",
-      "summary": "Conducted research on Wireless Communications, Full-Duplex systems, and Beamforming.",
+      "summary": "Research on Wireless Communications, Full-Duplex systems, and Beamforming.",
       "highlights": [
-        "Wireless Communications",
-        "Full-Duplex Systems",
-        "Digital Beamforming"
+        "Communication and Information Theory (TA Experience: 2022.03 - 2022.06)"
       ]
     }
   ],
@@ -120,14 +120,14 @@
     {
       "name": "Generalized Power Iteration-Based Precoding With Low-Complexity Matrix Inversion Approaches for Massive MIMO Systems",
       "publisher": "IEEE Transactions on Vehicular Technology (TVT)",
-      "releaseDate": "2025-01-01",
+      "releaseDate": "2025-12-15",
       "url": "https://ieeexplore.ieee.org/document/11299573",
       "summary": "M. Oh, S. Yoo, N. Lee, and J. Choi"
     },
     {
       "name": "Joint Secure Max-Min Fairness Precoding and Antenna Selection under Coarse Quantization",
       "publisher": "IEEE Transactions on Vehicular Technology (TVT)",
-      "releaseDate": "2025-01-01",
+      "releaseDate": "2025-10-02",
       "url": "https://ieeexplore.ieee.org/document/11192059",
       "summary": "S. Bae, S. Yoo, S. Lee, and J. Choi"
     },
@@ -166,9 +166,7 @@
       "name": "Research Interests",
       "icon": "fa-solid fa-microchip",
       "keywords": [
-        "Wireless Communications",
-        "Massive MIMO",
-        "Cell-Free MIMO",
+        "MIMO",
         "Full-Duplex",
         "Beamforming"
       ]
@@ -184,11 +182,23 @@
   ],
   "projects": [
     {
+      "name": "Development of 6G System Technologies Supporting AI-Native Application Services",
+      "summary": "Development of AI-Native Wireless Interface Technologies Supporting AI-Native Application Services.",
+      "highlights": [
+        "Reinforcement Learning",
+        "Pilot Design",
+        "Link Adaptation"
+      ],
+      "startDate": "2026-04-01",
+      "endDate": "2028-12-31",
+      "url": ""
+    },
+    {
       "name": "6G Wireless Communications System Development",
       "summary": "Development of OFDM-MIMO Systems using MATLAB.",
       "highlights": [
         "OFDM-MIMO",
-        "MATLAB"
+        "Channel Coding"
       ],
       "startDate": "2024-03-01",
       "endDate": "2027-02-28",
@@ -196,13 +206,13 @@
     },
     {
       "name": "Multiple-Functional High-Reliable Power Conversion System for DC Microgrid",
-      "summary": "Development of Basic Communications System using PSIM and MATLAB.",
+      "summary": "Development of Basic Communication System using PSIM and MATLAB.",
       "highlights": [
         "DC Microgrid",
-        "Communications System"
+        "Power Line Communication Systems"
       ],
       "startDate": "2023-06-01",
-      "endDate": "2026-05-31",
+      "endDate": "2026-02-28",
       "url": ""
     }
   ]
