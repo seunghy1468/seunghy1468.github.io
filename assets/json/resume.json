@@ -214,6 +214,17 @@
       "startDate": "2023-06-01",
       "endDate": "2026-02-28",
       "url": ""
+    },
+    {
+      "name": "Specialized Research Center for Space Surveillance and Reconnaissance Technology of Heterogeneous Satellite Constellations",
+      "summary": "Design of a Communication Architecture for Heterogeneous Satellite Constellations.",
+      "highlights": [
+        "Satellite Communications",
+        "Channel Modeling"
+      ],
+      "startDate": "2022-12-02",
+      "endDate": "2028-12-01",
+      "url": ""
     }
   ]
 }
