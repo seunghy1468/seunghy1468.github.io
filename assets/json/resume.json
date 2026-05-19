@@ -118,25 +118,25 @@
   "certificates": [],
   "publications": [
     {
+      "name": "Full-Duplex Multiuser MISO Under Coarse Quantization: Per-Antenna SQNR Analysis and Beamforming Design",
+      "publisher": "IEEE TCOM",
+      "releaseDate": "2026-05-17",
+      "url": "",
+      "summary": "S. Yoo, J. Kim, S. Park, M. Oh, N. Lee†, and J. Choi*"
+    },
+    {
       "name": "Generalized Power Iteration-Based Precoding With Low-Complexity Matrix Inversion Approaches for Massive MIMO Systems",
       "publisher": "IEEE Transactions on Vehicular Technology (TVT)",
       "releaseDate": "2025-12-15",
       "url": "https://ieeexplore.ieee.org/document/11299573",
-      "summary": "M. Oh, S. Yoo, N. Lee, and J. Choi"
+      "summary": "M. Oh, S. Yoo, N. Lee, and J. Choi*"
     },
     {
       "name": "Joint Secure Max-Min Fairness Precoding and Antenna Selection under Coarse Quantization",
       "publisher": "IEEE Transactions on Vehicular Technology (TVT)",
       "releaseDate": "2025-10-02",
       "url": "https://ieeexplore.ieee.org/document/11192059",
-      "summary": "S. Bae, S. Yoo, S. Lee, and J. Choi"
-    },
-    {
-      "name": "Max-Min Fairness Precoding with Low Resolution DACs",
-      "publisher": "IEEE ICTC",
-      "releaseDate": "2024-10-18",
-      "url": "",
-      "summary": "S. Bae, S. Lee, S. Yoo, and J. Choi"
+      "summary": "S. Bae, S. Yoo, S. Lee, and J. Choi*"
     }
   ],
   "skills": [
