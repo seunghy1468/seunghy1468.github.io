@@ -188,8 +188,21 @@
   ],
   "projects": [
     {
+      "name": "Research on NFV/SDN-Based Virtualized Infrastructure Construction for LEO Satellite Communication Core Networks",
+      "summary": "Development and Optimization of Resource Allocation and User Scheduling Algorithms",
+      "highlights": [
+        "Satellite Communications",
+        "Resource Allocation",
+        "User Scheduling",
+        "Reinforcement Learning"
+      ],
+      "startDate": "2026-06-01",
+      "endDate": "2028-05-31",
+      "url": ""
+    },
+    {
       "name": "Development of 6G System Technologies Supporting AI-Native Application Services",
-      "summary": "Development of AI-Native Wireless Interface Technologies Supporting AI-Native Application Services.",
+      "summary": "Development of AI-Native Wireless Interface Technologies Supporting AI-Native Application Services",
       "highlights": [
         "Reinforcement Learning",
         "Pilot Design",
@@ -201,7 +214,7 @@
     },
     {
       "name": "6G Wireless Communications System Development",
-      "summary": "Development of OFDM-MIMO Systems using MATLAB.",
+      "summary": "Development of OFDM-MIMO Systems",
       "highlights": [
         "OFDM-MIMO",
         "Channel Coding"
@@ -212,7 +225,7 @@
     },
     {
       "name": "Multiple-Functional High-Reliable Power Conversion System for DC Microgrid",
-      "summary": "Development of Basic Communication System using PSIM and MATLAB.",
+      "summary": "Development of Basic Communication Systems",
       "highlights": [
         "DC Microgrid",
         "Power Line Communication Systems"
