@@ -427,7 +427,7 @@ ninja.data = [{
           section: "News",},{id: "news-submitted-my-paper-scalable-and-convergent-generalized-power-iteration-precoding-for-massive-mimo-systems-has-been-submitted-to-ieee-transactions-on-wireless-communications-twc-2026",
           title: 'Submitted: My paper “Scalable and Convergent Generalized Power Iteration Precoding for Massive MIMO...',
           description: "",
-          section: "News",},{id: "news-journal-3-my-paper-full-duplex-multiuser-miso-under-coarse-quantization-per-antenna-sqnr-analysis-and-beamforming-design-has-been-accepted-to-ieee-transactions-on-communications-tcom-2025",
+          section: "News",},{id: "news-journal-3-my-paper-full-duplex-multiuser-miso-under-coarse-quantization-per-antenna-sqnr-analysis-and-beamforming-design-has-been-accepted-to-ieee-transactions-on-communications-tcom-2026",
           title: 'Journal 3: My paper “Full-Duplex Multiuser MISO Under Coarse Quantization: Per-Antenna SQNR Analysis...',
           description: "",
           section: "News",},{id: "projects-project-1",
