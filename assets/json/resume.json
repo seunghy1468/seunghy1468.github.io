@@ -119,7 +119,7 @@
   "publications": [
     {
       "name": "Full-Duplex Multiuser MISO Under Coarse Quantization: Per-Antenna SQNR Analysis and Beamforming Design",
-      "publisher": "IEEE TCOM",
+      "publisher": "IEEE Transactions on Communications (TCOM)",
       "releaseDate": "2026-05-17",
       "url": "",
       "summary": "S. Yoo, J. Kim, S. Park, M. Oh, N. Lee†, and J. Choi*"
