@@ -130,6 +130,13 @@
   "certificates": [],
   "publications": [
     {
+      "name": "Scalable and Convergent Generalized Power Iteration Precoding for Massive MIMO Systems",
+      "publisher": "IEEE Transactions on Wireless Communications (TWC)",
+      "releaseDate": "2026-10-30",
+      "url": "https://ieeexplore.ieee.org/document/11769607",
+      "summary": "S. Yoo, M. Oh, J. Park**, N. Lee†, and J. Choi*"
+    },
+    {
       "name": "Full-Duplex Multiuser MISO Under Coarse Quantization: Per-Antenna SQNR Analysis and Beamforming Design",
       "publisher": "IEEE Transactions on Communications (TCOM)",
       "releaseDate": "2026-05-17",
@@ -142,13 +149,6 @@
       "releaseDate": "2025-12-15",
       "url": "https://ieeexplore.ieee.org/document/11299573",
       "summary": "M. Oh, S. Yoo, N. Lee†, and J. Choi*"
-    },
-    {
-      "name": "Joint Secure Max-Min Fairness Precoding and Antenna Selection under Coarse Quantization",
-      "publisher": "IEEE Transactions on Vehicular Technology (TVT)",
-      "releaseDate": "2025-10-02",
-      "url": "https://ieeexplore.ieee.org/document/11192059",
-      "summary": "S. Bae, S. Yoo, S. Lee, and J. Choi*"
     }
   ],
   "skills": [
